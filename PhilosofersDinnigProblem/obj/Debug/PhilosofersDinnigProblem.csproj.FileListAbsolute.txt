@@ -1,0 +1,20 @@
+C:\Users\Laze\source\repos\PhilosofersDinnigProblem\PhilosofersDinnigProblem\bin\Debug\PhilosofersDinnigProblem.exe.config
+C:\Users\Laze\source\repos\PhilosofersDinnigProblem\PhilosofersDinnigProblem\bin\Debug\PhilosofersDinnigProblem.exe
+C:\Users\Laze\source\repos\PhilosofersDinnigProblem\PhilosofersDinnigProblem\bin\Debug\PhilosofersDinnigProblem.pdb
+C:\Users\Laze\source\repos\PhilosofersDinnigProblem\PhilosofersDinnigProblem\obj\Debug\PhilosofersDinnigProblem.csprojResolveAssemblyReference.cache
+C:\Users\Laze\source\repos\PhilosofersDinnigProblem\PhilosofersDinnigProblem\obj\Debug\PhilosofersDinnigProblem.Form1.resources
+C:\Users\Laze\source\repos\PhilosofersDinnigProblem\PhilosofersDinnigProblem\obj\Debug\PhilosofersDinnigProblem.Properties.Resources.resources
+C:\Users\Laze\source\repos\PhilosofersDinnigProblem\PhilosofersDinnigProblem\obj\Debug\PhilosofersDinnigProblem.csproj.GenerateResource.Cache
+C:\Users\Laze\source\repos\PhilosofersDinnigProblem\PhilosofersDinnigProblem\obj\Debug\PhilosofersDinnigProblem.csproj.CoreCompileInputs.cache
+C:\Users\Laze\source\repos\PhilosofersDinnigProblem\PhilosofersDinnigProblem\obj\Debug\PhilosofersDinnigProblem.exe
+C:\Users\Laze\source\repos\PhilosofersDinnigProblem\PhilosofersDinnigProblem\obj\Debug\PhilosofersDinnigProblem.pdb
+C:\Users\Laze\Desktop\Sync\OS proekt\PhilosofersDinnigProblem\PhilosofersDinnigProblem\bin\Debug\PhilosofersDinnigProblem.exe.config
+C:\Users\Laze\Desktop\Sync\OS proekt\PhilosofersDinnigProblem\PhilosofersDinnigProblem\bin\Debug\PhilosofersDinnigProblem.exe
+C:\Users\Laze\Desktop\Sync\OS proekt\PhilosofersDinnigProblem\PhilosofersDinnigProblem\bin\Debug\PhilosofersDinnigProblem.pdb
+C:\Users\Laze\Desktop\Sync\OS proekt\PhilosofersDinnigProblem\PhilosofersDinnigProblem\obj\Debug\PhilosofersDinnigProblem.csprojResolveAssemblyReference.cache
+C:\Users\Laze\Desktop\Sync\OS proekt\PhilosofersDinnigProblem\PhilosofersDinnigProblem\obj\Debug\PhilosofersDinnigProblem.Form1.resources
+C:\Users\Laze\Desktop\Sync\OS proekt\PhilosofersDinnigProblem\PhilosofersDinnigProblem\obj\Debug\PhilosofersDinnigProblem.Properties.Resources.resources
+C:\Users\Laze\Desktop\Sync\OS proekt\PhilosofersDinnigProblem\PhilosofersDinnigProblem\obj\Debug\PhilosofersDinnigProblem.csproj.GenerateResource.Cache
+C:\Users\Laze\Desktop\Sync\OS proekt\PhilosofersDinnigProblem\PhilosofersDinnigProblem\obj\Debug\PhilosofersDinnigProblem.csproj.CoreCompileInputs.cache
+C:\Users\Laze\Desktop\Sync\OS proekt\PhilosofersDinnigProblem\PhilosofersDinnigProblem\obj\Debug\PhilosofersDinnigProblem.exe
+C:\Users\Laze\Desktop\Sync\OS proekt\PhilosofersDinnigProblem\PhilosofersDinnigProblem\obj\Debug\PhilosofersDinnigProblem.pdb
